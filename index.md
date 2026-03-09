@@ -2,7 +2,7 @@
 
 **Effective date: March 4, 2026**
 
-This privacy policy applies to the FDP Monitor application (hereinafter "the App"), developed by prodavam-nemovitost.cz, s.r.o.. The privacy of your information is taken very seriously. This policy describes what data we collect, how we use it, and what rights you have.
+This privacy policy applies to the FDP Monitor application (hereinafter "the App"), developed by prodavam-nemovitost.cz, s.r.o. The privacy of your information is taken very seriously. This policy describes what data we collect, how we use it, and what rights you have.
 
 ## Data Controller
 
@@ -27,6 +27,10 @@ The App does not require access to your location, camera, microphone, contacts, 
 ## Third Parties
 
 No data is shared with third parties. The App does not contain advertisements or social media integrations.
+
+## Subscriptions
+
+FDP Monitor is available via auto-renewable subscription (monthly or yearly) through the Apple App Store. Subscription purchases are processed by Apple. We do not have access to your payment information. For details on how Apple handles your data, please refer to Apple's Privacy Policy.
 
 ## Data Retention
 
@@ -55,9 +59,9 @@ We may update this policy from time to time as may be necessary or as required b
 
 ## Contact
 
-For any questions regarding privacy or this policy, contact the developer:
+For any questions regarding privacy or this policy, contact:
 
-**prodavam-nemovitost.cz, s.r.o.**
+**prodavam-nemovitost.cz, s.r.o.**  
 E-mail: daniel.mikes@icloud.com
 
 ---
