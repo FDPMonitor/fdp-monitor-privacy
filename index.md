@@ -36,7 +36,7 @@ Since the App does not collect personal data, there is no data retention to addr
 
 ## Your rights
 
-Under the GDPR (EU) 2016/679, you have the right to access, rectification, erasure, restriction of processing, data portability, and the right to object. Since we do not collect personal data, these rights are practically not applicable. For any inquiries, contact us at daniel.mikes@icloud.com.
+Under the GDPR (EU) 2016/679, you have the right to access, rectification, erasure, restriction of processing, data portability, and the right to object. Since we do not collect personal data, these rights are practically not applicable. For any inquiries, contact us at info@prodavam-nemovitost.cz.
 
 ## Transfers outside the EEA
 
@@ -48,4 +48,4 @@ We may update this policy from time to time. Changes will be made available dire
 
 ## Contact
 
-For any questions regarding privacy, contact the developer at daniel.mikes@icloud.com.
+For any questions regarding privacy, contact the developer at info@prodavam-nemovitost.cz.
