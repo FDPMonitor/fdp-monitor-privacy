@@ -8,7 +8,7 @@ This privacy policy applies to the FDP Monitor application (hereinafter "the App
 
 ## Data controller
 
-The data controller is prodavam-nemovitost.cz, s.r.o., e-mail: daniel.mikes@icloud.com. For the purposes of applicable data protection laws, the data controller determines the purposes and manner in which your data is processed.
+The data controller is prodavam-nemovitost.cz, s.r.o., e-mail: info@prodavam-nemovitost.cz. For the purposes of applicable data protection laws, the data controller determines the purposes and manner in which your data is processed.
 
 ## Data collection
 
