@@ -16,7 +16,7 @@ To use the App, you must be 18 years of age or older. If you are under 18, you m
 
 ## Subscriptions
 
-FDP Monitor is available via auto-renewable subscription: monthly ($1.99) or yearly ($19.99). Each subscription includes a 7-day free trial. After the trial period, the subscription activates automatically. The subscription unlocks full access on all devices signed in under the same Apple ID. Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period. Manage or cancel subscriptions in Settings → Apple ID → Subscriptions. The Developer cannot manage subscriptions made through the App Store.
+FDP Monitor is available via auto-renewable subscription: monthly ($1.99). Subscription includes a 7-day free trial. After the trial period, the subscription activates automatically. The subscription unlocks full access on all devices signed in under the same Apple ID. Subscription auto-renew unless cancelled at least 24 hours before the end of the current period. Manage or cancel subscription in Settings → Apple ID → Subscriptions. The Developer cannot manage subscriptions made through the App Store.
 
 ## Copyright
 
@@ -56,4 +56,4 @@ These Terms may be updated at any time. Changes will be made available directly 
 
 ## Contact and effective date
 
-For any questions regarding these Terms, contact the Developer at daniel.mikes@icloud.com. These Terms are effective as of March 9, 2026.
+For any questions regarding these Terms, contact the Developer at info@prodavam-nemovitost.cz. These Terms are effective as of March 9, 2026.
